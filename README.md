@@ -3,6 +3,9 @@
 ## Design
 - [Figma](https://www.figma.com "Figma")
 
+## DevOps
+- [How To Install Nginx on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04 "Digital ocean")
+
 ## Source Control
 - [Git](https://git-scm.com/ "Git")
 
