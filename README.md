@@ -9,6 +9,9 @@
 ## Source Control
 - [Git](https://git-scm.com/ "Git")
 
+## Marketing
+- [SendGrid](https://sendgrid.com "SendGrid")
+
 ## Misc.
 - [DNS Checker](https://dnschecker.org/ "DNSChecker.org")
 - [HTTP Status Codes](https://httpstatuses.com/ "HttpStatues.com")
