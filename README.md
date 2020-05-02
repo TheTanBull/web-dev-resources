@@ -10,7 +10,9 @@
 - [Git](https://git-scm.com/ "Git")
 
 ## Marketing
-- [SendGrid](https://sendgrid.com "SendGrid")
+- ### Email
+  - [Mailchimp](https://mailchimp.com "Mailchimp")
+  - [SendGrid](https://sendgrid.com "SendGrid")
 
 ## Misc.
 - [DNS Checker](https://dnschecker.org/ "DNSChecker.org")
