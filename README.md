@@ -4,7 +4,7 @@
 - [Figma](https://www.figma.com "Figma")
 
 ## DevOps
-
+- [AWS](https://aws.amazon.com "AWS")
 
 ## Source Control
 - [Git](https://git-scm.com/ "Git")
