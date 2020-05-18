@@ -1,5 +1,9 @@
 # Web Development Resources
 
+## Conferences
+- May
+  - [Jamstack Conf](https://jamstackconf.com/ "Jamstack May 27-28")
+
 ## Design
 - [Figma](https://www.figma.com "Figma")
 
