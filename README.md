@@ -6,6 +6,8 @@
 
 ## Design
 - [Figma](https://www.figma.com "Figma")
+- ### Assets
+  - [Unsplash](https://unsplash.com/ "Unsplash")
 
 
 ## Development
@@ -42,6 +44,9 @@
 ## Misc.
 - [DNS Checker](https://dnschecker.org/ "DNSChecker.org")
 - [HTTP Status Codes](https://httpstatuses.com/ "HttpStatues.com")
+
+## News
+- ### 
 
 ## Tutorials
 - ### Devops
