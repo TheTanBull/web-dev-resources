@@ -11,6 +11,8 @@
 
 
 ## Development
+- ### API/Docs
+  -[Twitter API](https://developer.twitter.com "Twitter Developer API")
 - ### Database/Cache
    -[redis](https://redis.io/ "redis")
    
