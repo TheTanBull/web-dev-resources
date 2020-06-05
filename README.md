@@ -12,6 +12,7 @@
 
 ## Development
 - ### API/Docs
+  -[Airbnb Style Guide](https://github.com/airbnb/javascript "Airbnb Style Guide")
   -[Twitter API](https://developer.twitter.com "Twitter Developer API")
 - ### Database/Cache
    -[redis](https://redis.io/ "redis")
