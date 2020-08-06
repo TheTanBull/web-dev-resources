@@ -18,6 +18,7 @@
    -[redis](https://redis.io/ "redis")
 - ### Libraries
   - #### JavaScript
+    - [scrollama](https://github.com/russellgoldenberg/scrollama "scrollama") - Animation Library
     - [Three.js](https://threejs.org/ "Threejs") - JavaScript 3D Library
 - ### No/Low Code Tools
   - [Duda](https://www.duda.co/ "Duda")
